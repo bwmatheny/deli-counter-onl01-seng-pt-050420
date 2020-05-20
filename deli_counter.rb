@@ -10,3 +10,7 @@ def line(katz_deli)
     puts line_prompt
   end
 end
+
+def take_a_number
+
+end
