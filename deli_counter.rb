@@ -5,7 +5,7 @@ def line(katz_deli)
   else
     line_prompt = "The line is currently: "
     katz_deli.each_with_index do |name, index|
-    line_prompt << "#{index + 1}. #{name}"
+    line_prompt << "#{index + 1}. #{name} "
     end
     puts line_prompt
   end
