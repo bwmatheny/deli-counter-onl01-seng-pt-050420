@@ -6,6 +6,6 @@ def line(katz_deli)
     line_prompt = "The line is currently: "
     katz_deli.each_with_index do |name, index|
 
-    end 
+    end
   end
 end
